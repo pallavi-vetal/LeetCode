@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2540d9dc-37be-4dd5-92fb-d41d577d6091" name="Default Changelist" comment="" />
+    <list default="true" id="2540d9dc-37be-4dd5-92fb-d41d577d6091" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/FindMissingNumbers448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/RemoveDupsFromSortedArray26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/ReverseLL206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/ValidPalindrome125.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/ContainerWithMostWater11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -28,31 +41,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.LetterCombinationPhone17">
-    <configuration name="FindMaxLenghthOfUniqChar1239" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.FindMaxLenghthOfUniqChar1239" />
+  <component name="RunManager" selected="Application.MostCommonWord819">
+    <configuration name="ContainerWithMostWater11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium.ContainerWithMostWater11" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LCABinaryTree235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.LCABinaryTree235" />
-      <module name="SerDeBST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ReverseString344" />
+    <configuration name="MostCommonWord819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.MostCommonWord819" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +87,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockBuySell122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.easy.StockBuySell122" />
+    <configuration name="RemoveDupsFromSortedArray26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.RemoveDupsFromSortedArray26" />
+      <module name="SerDeBST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLL206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ReverseLL206" />
+      <module name="SerDeBST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.TestClass" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
@@ -101,10 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StockBuySell122" />
-        <item itemvalue="Application.LCABinaryTree235" />
-        <item itemvalue="Application.ReverseString344" />
-        <item itemvalue="Application.FindMaxLenghthOfUniqChar1239" />
+        <item itemvalue="Application.MostCommonWord819" />
+        <item itemvalue="Application.ReverseLL206" />
+        <item itemvalue="Application.RemoveDupsFromSortedArray26" />
+        <item itemvalue="Application.ContainerWithMostWater11" />
+        <item itemvalue="Application.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -126,45 +154,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1595774143114" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596434536463">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596526438899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596434536463" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596526438899" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596377911189" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596434536461">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596526438897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596434536461" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596526438897" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596377911187" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596434536460">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596526438897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596434536460" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596526438897" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596377911186" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596434536462">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596526438898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596434536462" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596526438898" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596377911188" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1596372775677">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1596526275865">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596372775677" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596526275865" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596372702791" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1596372775674">
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1596526275864">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596372775674" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596526275864" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1596372702782" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1596372775674">
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1596526275863">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596372775674" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596526275863" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1596372702781" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1596372775676">
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1596526275865">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596372775676" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596526275865" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1596372702790" />
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1596370167040">
       <screen x="0" y="0" width="1440" height="900" />
@@ -242,6 +270,56 @@
           <url>file://$PROJECT_DIR$/src/misc/SearchInRotatedArray.java</url>
           <line>10</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/TestClass.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/TestClass.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/TestClass.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/RemoveDupsFromSortedArray26.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/easy/MostCommonWord819.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
