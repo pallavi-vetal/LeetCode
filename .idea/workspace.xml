@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2540d9dc-37be-4dd5-92fb-d41d577d6091" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/AddNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/GroupAnagrams91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/MaxAreaOfIsland695.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/SortCharsByFreq451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/ReverseOnlyLetters917.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/SymmetricTree101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/GroupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/medium/MeetingRooms253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/medium/MeetingRooms253.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/hard/MergeKLists23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/hard/MergeKLists23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/medium/GroupAnagrams91.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1euIUKCs1y6sCHeF59gcUSbQ5Be" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,22 +53,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AddNumbers2">
-    <configuration name="AddNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.AddNumbers2" />
-      <module name="SerDeBST" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupAnagrams91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.GroupAnagrams91" />
+  <component name="RunManager" selected="Application.TwoSum1">
+    <configuration name="GroupAnagrams49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium.GroupAnagrams49" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAreaOfIsland695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.MaxAreaOfIsland695" />
+    <configuration name="LongestSubStr3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.medium.LongestSubStr3" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeetingRooms253" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.MeetingRooms253" />
+    <configuration name="ReverseOnlyLetters917" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ReverseOnlyLetters917" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.medium.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCharsByFreq451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.medium.SortCharsByFreq451" />
+    <configuration name="SymmetricTree101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.SymmetricTree101" />
       <module name="SerDeBST" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.medium.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.TwoSum1" />
+      <module name="SerDeBST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddNumbers2" />
-        <item itemvalue="Application.GroupAnagrams91" />
-        <item itemvalue="Application.SortCharsByFreq451" />
-        <item itemvalue="Application.MaxAreaOfIsland695" />
-        <item itemvalue="Application.MeetingRooms253" />
+        <item itemvalue="Application.TwoSum1" />
+        <item itemvalue="Application.LongestSubStr3" />
+        <item itemvalue="Application.ReverseOnlyLetters917" />
+        <item itemvalue="Application.SymmetricTree101" />
+        <item itemvalue="Application.GroupAnagrams49" />
       </list>
     </recent_temporary>
   </component>
@@ -163,67 +167,76 @@
       <option name="project" value="LOCAL" />
       <updated>1596601518020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 3 : 5th Aug 2020">
+      <created>1596693303936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596693303937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 2 : 4th Aug 2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 : 4th Aug 2020" />
+    <MESSAGE value="Day 3 : 5th Aug 2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 : 5th Aug 2020" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1595774143114">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1595774143114" />
-    <state x="353" y="25" key="CommitChangelistDialog2" timestamp="1596601517688">
+    <state x="353" y="25" key="CommitChangelistDialog2" timestamp="1596693303716">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="353" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1596526631319" />
-    <state x="353" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1596601517688" />
-    <state width="1398" height="253" key="GridCell.Tab.0.bottom" timestamp="1596647622569">
+    <state x="353" y="25" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1596693303716" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596703982930">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596526438899" />
-    <state width="1398" height="253" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596647622569" />
-    <state width="1398" height="253" key="GridCell.Tab.0.center" timestamp="1596647622568">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596703982930" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596703982928">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596526438897" />
-    <state width="1398" height="253" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596647622568" />
-    <state width="1398" height="253" key="GridCell.Tab.0.left" timestamp="1596647622567">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1596703982928" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596703982927">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596526438897" />
-    <state width="1398" height="253" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596647622567" />
-    <state width="1398" height="253" key="GridCell.Tab.0.right" timestamp="1596647622569">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1596703982927" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596703982929">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596526438898" />
-    <state width="1398" height="253" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596647622569" />
-    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1596647611443">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1596703982929" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1596696605863">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596526275865" />
-    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596647611443" />
-    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1596647611441">
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1596696605863" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1596696605861">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596526275864" />
-    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1596647611441" />
-    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1596647611440">
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1596696605861" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1596696605859">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596526275863" />
-    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1596647611440" />
-    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1596647611442">
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1596696605859" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1596696605861">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596526275865" />
-    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1596647611442" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1596526640551">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1596696605861" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1596693317971">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1596526640551" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1596693317971" />
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1596370167040">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -395,6 +408,36 @@
           <url>file://$PROJECT_DIR$/src/leetcode/medium/AddNumbers2.java</url>
           <line>28</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/medium/LongestSubStr3.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
