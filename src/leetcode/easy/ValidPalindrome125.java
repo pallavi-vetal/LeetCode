@@ -5,6 +5,16 @@ package leetcode.easy;
  * Example 1:
  * Input: "A man  a plan, a canal: Panama"
  * Output: true
+ * Algo:
+ * 1. Initialize 2 pointers i = 0 & j = S.length - 1
+ * 2. Repeat steps 3 to 5 while i<j
+ * 3. Repeat while i<j & CharAt(i) is not alphanum 
+        i++
+ * 4. Repeat while i<j & CharAt(j) is not alphanum
+        j--
+ * 5. if i<j & charAt(i) != charAt(j) then return false
+ * 6. Return True
+ * 7. End
  * */
 public class ValidPalindrome125 {
     public static boolean isValidPalindrome(String str){
